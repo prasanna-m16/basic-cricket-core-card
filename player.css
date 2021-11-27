@@ -1,0 +1,24 @@
+.a1{
+			
+			border-collapse:collapse;
+			border=0;
+			
+			}
+.a2
+			{
+			background-color:#43e8ca;
+			border-bottom:1px #32a852 solid;
+		
+			}
+			.a3:hover
+			{
+			background-color:#43e8ca;
+			transform: scale(1.05);
+		
+			}
+			.a3
+			{
+			background-color:#f2f7f4;
+			border-bottom:1px #32a852 solid;
+			}
+			
